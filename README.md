@@ -12,4 +12,5 @@ it's set 'fc' hotkey.
 3. use it.
   move on any word ,  push hotkey 'fc'  ,  next display  this word of any quto.
   
-  
+![捕获](https://user-images.githubusercontent.com/1430165/150921462-050364ad-d520-4e19-9cfd-322919957670.JPG)
+
